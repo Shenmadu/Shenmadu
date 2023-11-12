@@ -1,4 +1,4 @@
-![logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/24ed9392232693.5e45b4885aef5.jpg)
+![logo](https://github.com/Shenmadu/Shenmadu/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Tashen Madhuwantha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenmadu&label=Profile%20views&color=0e75b6&style=flat" alt="shenmadu" /> </p>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
