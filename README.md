@@ -7,7 +7,6 @@
 
 - 💻 I'm a Fullstack Developer in Java, React, Spring Boot, Angular, Node.js, and MySQL
 
-- 📫 How to reach me **tashen.madu@gmail.com**
 
 <h3>🎓 Education Background:</h3>
 <ul>
@@ -15,6 +14,8 @@
     <li>Bachelor of Engineering Technology (Honours) - USJP</li>
 </ul>
 
+ 📫 How to reach me **tashen.madu@gmail.com
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tashenmaduwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tashenmaduwantha" height="30" width="40" /></a>
