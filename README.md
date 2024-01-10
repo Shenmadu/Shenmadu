@@ -3,9 +3,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenmadu&label=Profile%20views&color=0e75b6&style=flat" alt="shenmadu" /> </p>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+
 - 🌱 I’m currently learning **java,java script,html**
 
 - 📫 How to reach me **tashen.madu@gmail.com**
+
+<h3>🎓 Education Background:</h3>
+<ul>
+    <li>Diploma in Software Engineering - ICET</li>
+    <li>Bachelor of Engineering Technology (Honours) - USJP</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
