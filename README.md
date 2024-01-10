@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **java,java script,html**
+- 💻 I'm a Fullstack Developer in Java, React, Spring Boot, Angular, Node.js, and MySQL
 
 - 📫 How to reach me **tashen.madu@gmail.com**
 
