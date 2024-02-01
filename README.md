@@ -11,7 +11,7 @@
 <h3>🎓 Education Background:</h3>
 <ul>
     <li>Diploma in Software Engineering - ICET</li>
-    <li>Bachelor of Engineering Technology (Honours) - USJP</li>
+    <li>Bachelor of Engineering Technology (Honours) - University Of Sri Jayewardenepura</li>
 </ul>
 
  📫 How to reach me **tashen.madu@gmail.com
