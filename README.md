@@ -5,7 +5,7 @@
 
 
 
-- 💻 I'm a Fullstack Developer in Java, React, Spring Boot, Angular, Node.js, and MySQL
+- 💻 I'm a Fullstack Developer in Java, React, Spring Boot, Angular, AWS , Node.js,PHP, Next.js,Express.js, and MySQL
 
 
 <h3>🎓 Education Background:</h3>
